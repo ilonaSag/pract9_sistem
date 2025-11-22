@@ -1,2 +1,6 @@
 ﻿  pract9_sistem.cpp
-  pract9_sistem.vcxproj -> C:\Users\st310-06\Desktop\Сагутдинова\pract9_sistem\x64\Debug\pract9_sistem.exe
+C:\Users\st310-06\Desktop\sag\pract9_sistem\pract9_sistem.cpp(71,10): warning C4311: приведение типов: усечение указателя из "HANDLE" в "int"
+C:\Users\st310-06\Desktop\sag\pract9_sistem\pract9_sistem.cpp(71,10): warning C4302: приведение типов: усечение из "HANDLE" к "int"
+C:\Users\st310-06\Desktop\sag\pract9_sistem\pract9_sistem.cpp(62,8): warning C4101: IDThread2: неиспользованная локальная переменная
+C:\Users\st310-06\Desktop\sag\pract9_sistem\pract9_sistem.cpp(33,8): warning C4101: IDThread: неиспользованная локальная переменная
+  pract9_sistem.vcxproj -> C:\Users\st310-06\Desktop\sag\pract9_sistem\x64\Debug\pract9_sistem.exe
